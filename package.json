@@ -1,0 +1,10 @@
+{
+    "name": "Stock-Movement-Tracker",
+    "version": "1.0.0",
+    "author": "andy",
+    "dependencies": {
+        "aws-sdk": "^2.1662.0",
+        "moment-timezone": "0.5.33",
+        "yahoo-finance": "0.3.7"
+    }
+}
